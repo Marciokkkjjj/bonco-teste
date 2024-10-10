@@ -9,6 +9,11 @@
       "name": "João",
       "skills": ["Python", "Django"],
       "bio": "Engenheiro de software"
-    }
+    },
+    {
+      "name": "Marcio",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "bio": "Desenvolvedor web"
+    },
   ]
 }

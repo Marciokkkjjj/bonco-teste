@@ -1,0 +1,16 @@
+
+{
+    "users": [
+      {
+        "name": "John Doe",
+        "skills": ["HTML", "CSS", "JavaScript"],
+        "description": "Front-end Developer"
+      },
+      {
+        "name": "Jane Smith",
+        "skills": ["Python", "Django", "Flask"],
+        "description": "Back-end Developer"
+      }
+    ]
+  }
+  
